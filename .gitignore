@@ -1,0 +1,6 @@
+node_modules
+dist
+*.tsbuildinfo
+.env*
+# personal documents stay local (the resume has a phone number)
+*.pdf
