@@ -1,3 +1,5 @@
+![Rakshith, full stack developer](public/og.jpg)
+
 # Portfolio Journey
 
 The portfolio of Rakshith Raj M, MLOps & AI Engineer in Bengaluru, built as a walk down an illustrated street.
